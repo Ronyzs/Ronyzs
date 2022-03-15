@@ -14,6 +14,8 @@
   <a href="" target="_blank"> <img src="https://symbols.getvecta.com/stencil_82/56_gradle-icon.ca9d609aeb.svg" alt="html5" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="html5" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="html5" width="40" height="40"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
