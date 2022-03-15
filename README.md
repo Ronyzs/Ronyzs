@@ -1,7 +1,8 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Bagas Rony Hidayat, Intermediate Android Developer :computer:<br>
+  <br> I'm Bagas Rony Hidayat, Intermediate Android Developer <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" width="30">
+  <br>
   <br>
     <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coder GIF" width="500">
  </abc>
