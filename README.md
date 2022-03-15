@@ -18,9 +18,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently studying at Dicoding Academy
-- :school: I'am also a student at Lambung Mangkurat University
-- :zap: Fun fact: I love gaming<br>
+:small_blue_diamond: :computer: I'm currently studying at Dicoding Academy<br>
+:small_blue_diamond: :school: I'am also a student at Lambung Mangkurat University<br>
+:small_blue_diamond: :zap: Fun fact: I love gaming<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
@@ -28,3 +28,11 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Bagas%20Rony%20Hidayat&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbagas-rony-hidayat-179254231%2F)](https://twitter.com/ronyzs_) 
 [![Facebook Badge](https://img.shields.io/twitter/url?label=Bagas%20Rony%20Hidayat&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbagasronyhidayat)](https://www.facebook.com/bagasronyhidayat) 
 [![Instagram Badge](https://img.shields.io/twitter/url?label=ronyzs_&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbagasronyhidayat)](https://www.instagram.com/ronyzs_/)
+
+<h2 align="left">:part_alternation_mark: Statistics:</h2>
+
+<a href="https://github.com/Hanan07-sys">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hanan07-sys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hanan07-sys&layout=compact&langs_count=100&theme=algolia"/>
+</a>
+</p>
