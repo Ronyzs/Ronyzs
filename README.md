@@ -24,8 +24,8 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=blue&label=ronyzs_&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fronyzs_)](https://www.linkedin.com/in/bagasrh/) 
-[![Twitter Badge](https://img.shields.io/twitter/url?label=Bagas%20Rony%20Hidayat&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbagas-rony-hidayat-179254231%2F)](https://twitter.com/ronyzs_) 
+[![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=ronyzs_&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fronyzs_)](https://twitter.com/ronyzs_) 
+[![LinkedIn Badge](https://img.shields.io/twitter/url?label=Bagas%20Rony%20Hidayat&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbagas-rony-hidayat-179254231%2F)](https://www.linkedin.com/in/bagasrh/) 
 [![Facebook Badge](https://img.shields.io/twitter/url?label=Bagas%20Rony%20Hidayat&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbagasronyhidayat)](https://www.facebook.com/bagasronyhidayat) 
 [![Instagram Badge](https://img.shields.io/twitter/url?label=ronyzs_&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fbagasronyhidayat)](https://www.instagram.com/ronyzs_/)
 
