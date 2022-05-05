@@ -33,8 +33,8 @@
 
 <h2 align="left">:part_alternation_mark: Statistics:</h2>
 
-<a href="https://github.com/Hanan07-sys">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hanan07-sys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hanan07-sys&layout=compact&langs_count=100&theme=algolia"/>
+<a href="https://github.com/Ronyzs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronyzs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronyzs&layout=compact&langs_count=100&theme=algolia"/>
 </a>
 </p>
