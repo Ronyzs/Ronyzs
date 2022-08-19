@@ -21,8 +21,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-:small_blue_diamond: :computer: I'm currently studying at Dicoding Academy<br>
 :small_blue_diamond: :school: I'am also a student at Lambung Mangkurat University<br>
+:small_blue_diamond: :computer: I've completed Dicoding Academy program (Multi Platform & Back-End) from Kampus Merdeka<br>
 :small_blue_diamond: :zap: Fun fact: I love gaming<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
