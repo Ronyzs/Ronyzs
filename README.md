@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Bagas Rony Hidayat, Junior Front End <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" width="30">
+  <br> I'm Bagas Rony Hidayat, Junior Front-End Web Developer<img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" width="30">
   <br>
   <br>
     <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coder GIF" width="500">
@@ -9,19 +9,18 @@
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-  <a href="" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/d/66/dart.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/g/48/gradle.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="html5" width="40" height="40"/> </a>
-    </p>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="Javascript" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" title="Vue.js" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind CSS" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" alt="" width="40" height="40"/> </a>
+</p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-:small_blue_diamond: :school: I'm also a student at Lambung Mangkurat University<br>
 :small_blue_diamond: :computer: I've completed Dicoding Academy program (Multi Platform & Back-End) from Kampus Merdeka<br>
 :small_blue_diamond: :zap: Fun fact: I love gaming<br>
 
